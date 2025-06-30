@@ -1,2 +1,1 @@
-# py2c
-python into c converter using cython
+convert from code c into low level virtual machine
